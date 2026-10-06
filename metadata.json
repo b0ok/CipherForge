@@ -1,0 +1,6 @@
+{
+  "name": "CipherForge - Cryptographic Password Generator & Strength Analyzer",
+  "description": "Cryptographically secure password generator and vulnerability scoring engine with real-time Shannon entropy, threat-model crack times, and policy analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
